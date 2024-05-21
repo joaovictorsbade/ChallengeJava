@@ -95,3 +95,6 @@ public class GerenciarUsuario {
         }
     }
 }
+
+//System.out.println(array.get(0);
+//System.out.println(array.get(array.size() -1);
