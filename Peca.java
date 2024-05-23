@@ -1,4 +1,5 @@
 public class Peca {
+	//colocar peças em uma array
 	private int id;
 	private String dscriPeca;
 	private String nome;

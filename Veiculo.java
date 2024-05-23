@@ -1,5 +1,6 @@
 public class Veiculo {
 
+	//Colocar veiculo em uma array
 	private String placa;
 	private String marca;
 	private String modelo;
